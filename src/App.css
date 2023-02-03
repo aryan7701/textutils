@@ -40,3 +40,7 @@
 .blank{
   color:#61dafb;
 }
+
+.accordian-button::after{
+  filter: invert(1);
+}
